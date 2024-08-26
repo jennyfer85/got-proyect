@@ -1,45 +1,40 @@
 {
-    "character": [
-        {
-            "id": "01",
-            "name": "Jon Snow",
-            "house": "Stark",
-            "age": "26"
-        },
-        {
-            "id": "02",
-            "name": "Daenerys Targaryen",
-            "house": "Targaryen",
-            "age": "24"
-        },
-        {
-            "id": "03",
-            "name": "Tyrion Lannister",
-            "house": "Lannister",
-            "age": "32"
-        },
-        {
-            "id": "04",
-            "name": "Arya Stark",
-            "house": "Stark",
-            "age": "18"
-        },
-        {
-            "id": "05",
-            "name": "Cersei Lannister",
-            "house": "Lannister",
-            "age": "42"
-        },
-        {
-            "id": "06",
-            "name": "Sansa Stark",
-            "house": "Stark",
-            "age": "22"
-        }
-    ]
+  "character": [
+      {
+          "id": "1",
+          "name": "Jon Snow",
+          "house": "Stark",
+          "age": "26"
+      },
+      {
+          "id": "2",
+          "name": "Daenerys Targaryen",
+          "house": "Targaryen",
+          "age": "24"
+      },
+      {
+          "id": "3",
+          "name": "Tyrion Lannister",
+          "house": "Lannister",
+          "age": "32"
+      },
+      {
+          "id": "4",
+          "name": "Arya Stark",
+          "house": "Stark",
+          "age": "18"
+      },
+      {
+          "id": "5",
+          "name": "Cersei Lannister",
+          "house": "Lannister",
+          "age": "42"
+      },
+      {
+          "id": "6",
+          "name": "Bran Stark",
+          "house": "Stark",
+          "age": "16"
+      }
+  ]
 }
-
-
-
-
-
