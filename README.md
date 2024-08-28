@@ -1,4 +1,4 @@
-#Game of Thrones Character List
+## Game of Thrones Character List
 
 This project is a simple web application to manage “Game of Thrones” characters. 
 This project is a simple web application to manage “Game of Thrones” characters. to practice with CRUD. you can Create, read, update and delete. 
