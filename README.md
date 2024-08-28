@@ -16,7 +16,7 @@ JSON Server
 
 ## Configuration Instructions
 
-1. Clone this repository ... 
+1. Clone this repository https://github.com/jennyfer85/got-proyect.git
 2. Install from json server
 3. Make sure you have a backend server running at http://localhost:8000/ that supports CRUD operations.
 4. Open the index.html file in your browser to start using the application.
